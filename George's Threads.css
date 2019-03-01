@@ -1,0 +1,75 @@
+body {
+    background-color: grey;
+}
+
+.jumbotron {
+    background-color: dimgray;
+    color: white;
+    height: 230px;
+    width: 100%;
+    padding: 15px 30px 20px 40px;
+    clear: both;
+}
+
+.aboutsection {
+    width: 40%;
+    height: 380px;
+    background-color: grey;
+    margin: auto;
+    padding: 100px 50px 100px 50px;
+    border: solid;
+    border-color: white;
+    background-image: url("jeans1.jpg");
+    color: white;
+}
+
+.checkout {
+    border: solid;
+    border-color: white;
+    padding: 10px 10px 10px 50px;
+    color: white;
+}
+
+img {
+    float: left;
+    padding: 25px 25px 25px 25px;
+
+}
+
+.button1 {
+    width: 100%;
+}
+
+/*jeans page */
+
+.col-sm-6 col-md-4 {
+   
+}
+
+.thumbnail {
+    
+}
+
+.rowone {
+    
+}
+
+.rowtwo {
+    
+}
+
+.rowthree {
+    
+}
+
+.jeansinfosection {
+    
+}
+
+/* underwear page */
+
+.underwearrowone {
+   
+}
+
+
